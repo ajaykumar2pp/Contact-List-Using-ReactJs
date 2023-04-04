@@ -1,3 +1,34 @@
+# Contact List  🚀🚀
+
+## ⭐ Introduction
+
+This is a Contact List Project which is built using Reactjs, CSS, Bootstrap, Axios. It is responsive across all devices.
+<br/>
+<br/>
+
+## Features
+-Fetch and show albums from the api - https://jsonplaceholder.typicode.com/users<br/>
+-Add an conatct, make a POST call to the above url ..<br/>
+-Update an contact, make a PUT call to the above url..<br/>
+-Delete the Contact, make a DELETE call to the above url..<br/>
+<br/>
+<br/>
+
+## Packages Install
+-react-bootstrap<br/>
+-bootstrap<br/>
+-react-icons<br/>
+-axios<br/>
+-react-router-dom<br />
+
+
+
+### 💻 Screens
+ 
+![Screenshot (236)](https://user-images.githubusercontent.com/102378038/229686638-4747f033-6f26-4852-85ae-0af80d174e47.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
